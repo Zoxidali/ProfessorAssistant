@@ -1,0 +1,12 @@
+EXAM - Created by Professor Default Professor
+============================================================
+
+Question 1: The geometric arrangement of devices on the network is called...........?
+Answer: Topology
+
+Question 2: The unit KIPS is used to measure the speed of __?
+Answer: Processor
+
+Question 3: Full form of LAN ?
+Answer: Local Area Network
+

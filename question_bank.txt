@@ -1,0 +1,200 @@
+Which button makes alphabets/letters in uppercase and lowercase and numbers to symbols?
+Shift
+When a computer is switched on, the booting process performs__?
+Power on self test
+What is the software frequently utilized by end users called (like Word, PowerPoint)?
+Application Software
+Unit of measurement of the output quality of a printer?
+Dot per sq. inch
+Switching device of fifth generation computer is__?
+VLSI
+The unit KIPS is used to measure the speed of __?
+Processor
+DOS stands for__?
+Disk Operating System
+What is a joy stick primarily in computers used for?
+Computer Gaming
+In 1999, the Melissa virus was a widely publicised__?
+E-mail virus
+COBOL is an acronym for__?
+Common Business Oriented Language
+The ability of an OS to run more than one application at a time is called?
+Multitasking
+What is the functional key to display save-as box?
+F12
+Full form of NOS ?
+Network Operating system
+Something which has easily understood instructions is said to be..........?
+Analog Data
+A modem is connected to a__?
+Telephone Line
+Refresh Rate of monitor is measured in?
+Hertz
+What was the chief component of first generation computer?
+Vacuum tube & Valves
+Who is the father of Computer science?
+Charles Babbage
+In a computer, most processing takes place in__?
+CPU
+In which type of computer, data are represented as discrete signals?
+Digital Computer
+A computer cannot 'boot' if it does not have the__?
+Operating system
+What is the other name for programmed chip?
+LSIC
+A normal CD- ROM usually can store up to _____data?
+680 MB
+What does DMA stand for?
+Direct Memory Access
+Full form of LAN ?
+Local Area Network
+ASCII stands for__?
+American Standard Code for Information Interchange
+Scientific Name of Computer?
+Sillico sapiens
+What is the name of the display feature that highlights are of the screen which requires operator attention?
+Reverse Video
+Computers, combine both measuring and counting, are called__?
+Hybrid Computer
+Name the Father of Computer Mouse?
+Douglas Engelbart
+A program that performs a useful task while simultaneously allowing destructive acts is __?
+Trojan Horse
+The geometric arrangement of devices on the network is called...........?
+Topology
+The basic goal of computer process is to convert data into ___?
+Information
+Where are the CPU and memory located?
+Motherboard
+Who is known as the founder of IBM Company?
+Thomas J. Watson
+An image on a computer screen is made up of__?
+Pixels
+Full form of MAN ?
+Metropolitan Area Network
+Which command in DOS can be used to recover accidentally deleted files?
+UNDELETE
+A computer program that converts an entire program into machine language atone time is called__?
+Characters
+In which year, the Microsoft company was founded?
+1975
+What is the personal computer operating system that organizes and uses a graphic desktop  environment?
+Windows
+What are Light pen and joystick ?
+Input Devices
+What is a half byte also called as?
+Nibble
+SMPS stands for__?
+Switched Mode Power Supply
+What do we use to change the appearance and positioning of text document in MS Word?
+Formatting
+When did arch rivals IBM and Apple Computers Inc. decide to join hands?
+1991
+What kind of memory is both static and non -volatile?
+ROM
+An error in software or hardware is called a bug. What is the alternative computer jargon for it?
+Glitch
+Unwanted repetitious messages, such as unsolicited bulk e-mail is known as__?
+Spam
+The common name for the crime of stealing passwords is__?
+Spoofing
+BIOS stands for __?
+Basic Input Output System
+Who is regarded as Father of “C‘ programming language?
+Dennis Ritchie
+RAM can be treated as the ......... for the computer's processor.
+Waiting Room
+Computers manipulate data in many ways, and this manipulation is called__?
+Processing
+Joshy, Perfumes are examples of __?
+Viuses
+The ability to recover and read deleted or damaged files from a criminal's computer is an example of a law enforcement speciality called__?
+Computer Forensics
+Where does most data go first with in a computer memory hierarchy?
+RAM
+Help Menu is available at which button?
+Start
+Which file contains permanent data and gets updated during the processing of transactions?
+Master File
+A DVD is an example of an__?
+Optical Disc
+Which is most common tool used to restrict access to computer system?
+Passwords
+The technology that stores only essential instructions on a microprocessor chip and thus enhances its speed is referred as__?
+RISC
+What is the name of an application program that gathers user information and sends it to someone through the Internet?
+Spybot
+A ________ is approximately a million bytes?
+Megabyte
+Daisy wheel, Drum, chain etc are the__?
+Printers
+XML stands for __?
+Extensible Markup Language
+What is FORTRAN?
+Formula Translation
+What translates and executes program at run time line by line?
+Interpreter
+What converts an entire program into machine language ?
+Compiler
+Who is the father of personal computer?
+Edward Robert
+EEPROM stands for__?
+Electronic Erasable Programmable Read Only Memory
+Who developed the first electronic computer?
+J.V. Atansoff
+Which programming languages are classified as low level languages?
+Assembly Language
+The first web browser is__?
+Mosaic
+First page of Website is termed as__?
+Homepage
+IBM stands for__?
+International Business Machines
+Office LANS, which are scattered geographically on large scale, can be connected by the use of corporate__?
+WAN (Wide Area Network)
+To move a copy of file from one computer to another over a communication channel is called?
+File Transfer
+Large transaction processing systems in automated organisations use__?
+Batch Processing
+MICR stands for__?
+Magnetic Ink Character Reader
+Name of 1st electronic computer?
+ENIAC
+No. of different characters in ASCII coding system?
+1024
+MSIC stands for _?
+Medium Scale Integrated Circuits
+The scrambling of code is known as__?
+Encryption
+The first computers were programmed using__?
+Machine Language
+A fault in a computer program which prevents it from working correctly is known as__?
+Bug
+What kind of scheme is the HTTP protocol?
+Request/Response
+Magnetic disk is an example of__?
+Secondary Memory
+What is the meaning of OSI, in terms of computers ?
+Open system Interconnection
+Which type of storage device is a BIOS ?
+Primary
+What is the extension type of the excel 2007 files?
+.xlsx
+Collecting personal information and effectively posing as another individual is known as the crime of__?
+Identity theft
+The amount of vertical space between lines of text in a document is called__?
+Line Spacing
+Second Generation computers were developed during__?
+1956-65
+Which of the following commands is given to reboot the computer?
+Ctrl+Alt+Del
+What is correcting errors in a program called ?
+Debugging
+BCD is __?
+Binary Coded Decimal
+What type of virus uses computer hosts to reproduce itself?
+Worm
+SMTP, FTP and DNS are applications of the ____ layer?
+Application
+Which command is used to select the whole document?
+Ctrl+A
