@@ -59,7 +59,7 @@ if __name__ == "__main__":
 
     if bank:
         # User defined parameters for the test run
-        num_to_generate = 3
+        num_to_generate = 20
         professor = os.environ.get('USERNAME', 'Default Professor') #tris to get system username
         output_file = "generated_exam.txt"
 

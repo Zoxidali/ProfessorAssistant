@@ -1,12 +1,63 @@
 EXAM - Created by Professor Default Professor
 ============================================================
 
-Question 1: The geometric arrangement of devices on the network is called...........?
-Answer: Topology
+Question 1: A normal CD- ROM usually can store up to _____data?
+Answer: 680 MB
 
-Question 2: The unit KIPS is used to measure the speed of __?
-Answer: Processor
+Question 2: An image on a computer screen is made up of__?
+Answer: Pixels
 
-Question 3: Full form of LAN ?
-Answer: Local Area Network
+Question 3: The basic goal of computer process is to convert data into ___?
+Answer: Information
+
+Question 4: Where does most data go first with in a computer memory hierarchy?
+Answer: RAM
+
+Question 5: What kind of memory is both static and non -volatile?
+Answer: ROM
+
+Question 6: Large transaction processing systems in automated organisations use__?
+Answer: Batch Processing
+
+Question 7: Full form of NOS ?
+Answer: Network Operating system
+
+Question 8: RAM can be treated as the ......... for the computer's processor.
+Answer: Waiting Room
+
+Question 9: When a computer is switched on, the booting process performs__?
+Answer: Power on self test
+
+Question 10: Name of 1st electronic computer?
+Answer: ENIAC
+
+Question 11: A DVD is an example of an__?
+Answer: Optical Disc
+
+Question 12: Where are the CPU and memory located?
+Answer: Motherboard
+
+Question 13: BCD is __?
+Answer: Binary Coded Decimal
+
+Question 14: Refresh Rate of monitor is measured in?
+Answer: Hertz
+
+Question 15: DOS stands for__?
+Answer: Disk Operating System
+
+Question 16: Daisy wheel, Drum, chain etc are the__?
+Answer: Printers
+
+Question 17: In which year, the Microsoft company was founded?
+Answer: 1975
+
+Question 18: MICR stands for__?
+Answer: Magnetic Ink Character Reader
+
+Question 19: Name the Father of Computer Mouse?
+Answer: Douglas Engelbart
+
+Question 20: What is the meaning of OSI, in terms of computers ?
+Answer: Open system Interconnection
 
