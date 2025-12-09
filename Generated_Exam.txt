@@ -1,0 +1,63 @@
+EXAM - Created by Professor Zokhidali
+============================================================
+
+Question 1: MICR stands for__?
+Answer: ______________________
+
+Question 2: Refresh Rate of monitor is measured in?
+Answer: ______________________
+
+Question 3: XML stands for __?
+Answer: ______________________
+
+Question 4: Unwanted repetitious messages, such as unsolicited bulk e-mail is known as__?
+Answer: ______________________
+
+Question 5: The unit KIPS is used to measure the speed of __?
+Answer: ______________________
+
+Question 6: The first computers were programmed using__?
+Answer: ______________________
+
+Question 7: What is the other name for programmed chip?
+Answer: ______________________
+
+Question 8: In 1999, the Melissa virus was a widely publicised__?
+Answer: ______________________
+
+Question 9: The scrambling of code is known as__?
+Answer: ______________________
+
+Question 10: An image on a computer screen is made up of__?
+Answer: ______________________
+
+Question 11: Large transaction processing systems in automated organisations use__?
+Answer: ______________________
+
+Question 12: Which command in DOS can be used to recover accidentally deleted files?
+Answer: ______________________
+
+Question 13: What are Light pen and joystick ?
+Answer: ______________________
+
+Question 14: When a computer is switched on, the booting process performs__?
+Answer: ______________________
+
+Question 15: SMTP, FTP and DNS are applications of the ____ layer?
+Answer: ______________________
+
+Question 16: A computer program that converts an entire program into machine language atone time is called__?
+Answer: ______________________
+
+Question 17: In a computer, most processing takes place in__?
+Answer: ______________________
+
+Question 18: No. of different characters in ASCII coding system?
+Answer: ______________________
+
+Question 19: Who developed the first electronic computer?
+Answer: ______________________
+
+Question 20: RAM can be treated as the ......... for the computer's processor.
+Answer: ______________________
+
