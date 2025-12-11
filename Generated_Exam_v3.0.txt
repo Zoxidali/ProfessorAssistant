@@ -1,0 +1,63 @@
+EXAM (STUDENT COPY) - Created by Professor Ali
+============================================================
+
+Question 1: What translates and executes program at run time line by line?
+Answer: ______________________
+
+Question 2: What kind of memory is both static and non -volatile?
+Answer: ______________________
+
+Question 3: Computers manipulate data in many ways, and this manipulation is called__?
+Answer: ______________________
+
+Question 4: ASCII stands for__?
+Answer: ______________________
+
+Question 5: Full form of MAN ?
+Answer: ______________________
+
+Question 6: Which command in DOS can be used to recover accidentally deleted files?
+Answer: ______________________
+
+Question 7: The scrambling of code is known as__?
+Answer: ______________________
+
+Question 8: What is the extension type of the excel 2007 files?
+Answer: ______________________
+
+Question 9: Which button makes alphabets/letters in uppercase and lowercase and numbers to symbols?
+Answer: ______________________
+
+Question 10: A program that performs a useful task while simultaneously allowing destructive acts is __?
+Answer: ______________________
+
+Question 11: Help Menu is available at which button?
+Answer: ______________________
+
+Question 12: BCD is __?
+Answer: ______________________
+
+Question 13: What is the functional key to display save-as box?
+Answer: ______________________
+
+Question 14: The common name for the crime of stealing passwords is__?
+Answer: ______________________
+
+Question 15: Who is the father of Computer science?
+Answer: ______________________
+
+Question 16: Refresh Rate of monitor is measured in?
+Answer: ______________________
+
+Question 17: Office LANS, which are scattered geographically on large scale, can be connected by the use of corporate__?
+Answer: ______________________
+
+Question 18: First page of Website is termed as__?
+Answer: ______________________
+
+Question 19: Large transaction processing systems in automated organisations use__?
+Answer: ______________________
+
+Question 20: The ability of an OS to run more than one application at a time is called?
+Answer: ______________________
+
